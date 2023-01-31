@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60a3cc78-10f1-47fc-9d9c-64e8365edbde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosEscritura.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alumnos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factura.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registroCivil.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangulos.txt" afterDir="false" />
-    </list>
+    <list default="true" id="60a3cc78-10f1-47fc-9d9c-64e8365edbde" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,8 +133,16 @@
       <updated>1675104732026</updated>
       <workItem from="1675104732780" duration="1520000" />
       <workItem from="1675126293628" duration="625000" />
-      <workItem from="1675201930837" duration="1908000" />
+      <workItem from="1675201930837" duration="2070000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1675203963541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675203963541</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,5 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
